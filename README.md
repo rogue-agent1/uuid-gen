@@ -1,10 +1,3 @@
-# uuid-gen
-
-Single-file Python CLI. Zero dependencies.
-
-## Usage
-
-```bash
-python3 uuid_gen.py
-python3 uuid_gen.py test
-```
+# uuid_gen
+UUID generator — v1 (time), v4 (random), v5 (name-based), validation.
+Single-file Python, zero dependencies.
