@@ -1,11 +1,10 @@
 # uuid-gen
 
-UUID v4/v1 generator and parser.""".
-
-Zero dependencies. Python 3.8+.
+Single-file Python CLI. Zero dependencies.
 
 ## Usage
 
 ```bash
-python3 uuid_gen.py --help
+python3 uuid_gen.py
+python3 uuid_gen.py test
 ```
